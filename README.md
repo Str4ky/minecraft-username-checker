@@ -28,4 +28,4 @@ On vérifie si l'information de status est égale à "ERR" (n'a pas d'uuid) ou O
 ?>
 ```
 # Crédits
-Un grand merci à <a href="api.minetools.eu">L'api Minetools</a> qui m'a aidé à réaliser ce petit projet
+Un grand merci à <a href="https://api.minetools.eu">L'api Minetools</a> qui m'a aidé à réaliser ce petit projet
