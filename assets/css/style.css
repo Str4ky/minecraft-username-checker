@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "Monocraft";
+    src: url("../font/Monocraft.otf") format("opentype");
+}
+
+* {
+    font-family: "Monocraft";
+}
+
+html {
+    background-image: url("../img/dirt.png");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 22px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    width: 400px;
+    background-color: black;
+    border: solid white 2px;
+    color: white;
+    font-size: 20px;
+}
+
+button {
+    padding: 10px;
+    width: 200px;
+    background-image: url("../img/button.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+    border: solid black 2px;
+    color: white;
+    font-size: 20px;
+}
+
+button:hover {
+    background-image: url("../img/button_active.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+    color: #e5eb95;
+    cursor: pointer;
+}
