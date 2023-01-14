@@ -1,7 +1,6 @@
 # minecraft-username-checker
-Un vérificateur de pseudo Minecraft en PHP<br><br>
+Un vérificateur de disponibilité de pseudo Minecraft en PHP<br><br>
 <img src="assets/img/preview.png" />
-Vérifie si un pseudo est disponible à l'utilisation ou pas<br>
 # Comment ça marche ?
 On récupère un bloc json contenant les informations de l'utilisateur avec l'api Minetools
 ```php
