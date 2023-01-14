@@ -32,16 +32,13 @@ button {
     width: 200px;
     background-image: url("../img/button.png");
     background-repeat: no-repeat;
-    background-size:contain;
+    background-size: cover;
     border: solid black 2px;
     color: white;
     font-size: 20px;
 }
 
 button:hover {
-    background-image: url("../img/button_active.png");
-    background-repeat: no-repeat;
-    background-size:contain;
-    color: #e5eb95;
+    border: solid white 2px;
     cursor: pointer;
 }
